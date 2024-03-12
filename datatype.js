@@ -14,7 +14,7 @@ boolean
 undefined
 null // standalone value
 symbol // unique
-object
+objectz
 
 */
 console.log(typeof age);

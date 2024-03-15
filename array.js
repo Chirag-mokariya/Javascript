@@ -15,7 +15,7 @@ console.log(myarr);
 myarr.shift()
 console.log(myarr);
 
-console.log(myarr.includes(5));
+console.log(myarr.includes(2));
 console.log(myarr.indexOf("hi"));
 console.log("*********************");
 
